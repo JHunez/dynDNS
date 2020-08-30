@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # I have a web server running at home with a DNS name. But I have not a static public IP. This how I change my DNS name.
 # The API call here is specific to my dns provider. Check yours before testing ! (and yelling at me)
 
